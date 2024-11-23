@@ -1,1 +1,1 @@
-Sitemap: https://greenelab.github.io/lab-website-template/sitemap.xml
+Sitemap: https://ws517037749.github.io/M3Lab.github.io/sitemap.xml
