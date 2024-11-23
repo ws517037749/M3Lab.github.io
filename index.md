@@ -1,20 +1,19 @@
 ---
 ---
 
-# Lab Website Template
+# M3 Lab
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/).
-Spend less time worrying about managing a website and citations, and more time running your lab.
+简单介绍。。。
 
 {%
   include button.html
-  type="docs"
+  type="XXX link"
   link="https://greene-lab.gitbook.io/lab-website-template-docs"
 %}
 {%
   include button.html
   type="github"
-  text="On GitHub"
+  text="XXX link"
   link="greenelab/lab-website-template"
 %}
 
@@ -24,7 +23,7 @@ Spend less time worrying about managing a website and citations, and more time r
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+简单介绍.
 
 {%
   include button.html
@@ -47,7 +46,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+简单介绍.
 
 {%
   include button.html
@@ -72,7 +71,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+简单介绍.
 
 {%
   include button.html
