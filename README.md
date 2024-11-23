@@ -1,8 +1,8 @@
 Visit **[ws517037749.github.io/M3Lab.github.io](https://ws517037749.github.io/M3Lab.github.io)** 🚀
 
-<h1 align="center">Lab Website Template</h1>
+<h1 align="center">M3 Lan</h1>
 <p align="center">
-<img height="200" src="https://raw.githubusercontent.com/greenelab/lab-website-template/main/images/share.jpg?raw=true" alt="Lab Website Template">
+<img height="200" src="https://raw.githubusercontent.com/greenelab/lab-website-template/main/images/share.jpg?raw=true" alt="M3 Lan">
 </p>
 
 Lab Website Template (LWT) is an easy-to-use, flexible website template for labs.
