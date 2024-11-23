@@ -9,8 +9,8 @@ proofer: false
 # site social media and other links
 links:
   email: shuowang@eitech.edu.cn
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  orcid: https://orcid.org/0000-0002-7907-9676
+  google-scholar: https://scholar.google.com/citations?hl=en&user=DN3xCtoAAAAJ
   github: your-lab
   twitter: YourLabHandle
   youtube: YourLabChannel
