@@ -7,6 +7,7 @@
 
 {%
   include button.html
+  type="github"
   type="XXX link"
   link="https://greene-lab.gitbook.io/lab-website-template-docs"
 %}
