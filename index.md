@@ -3,7 +3,7 @@
 
 # M3 Lab
 
-简单介绍。。。
+Welcome to the M3 Lab! Our mission is to advance the understanding of materials across multiple scales through innovative modeling and simulation techniques. Explore our work to see how we bridge the gap between theory and application in materials science.
 
 {%
   include button.html
