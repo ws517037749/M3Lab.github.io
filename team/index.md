@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Meet the team behind the M3 Lab! From faculty to students, our diverse group of researchers shares a passion for pushing the boundaries of materials science. Learn more about our members and their roles in the lab.
 
 {% include section.html %}
 
